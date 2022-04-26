@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Store-Management/static/css/main.073c9b0a.css",
+    "main.js": "/Store-Management/static/js/main.54105ccc.js",
+    "static/js/787.4370736f.chunk.js": "/Store-Management/static/js/787.4370736f.chunk.js",
+    "static/media/logo.svg": "/Store-Management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Store-Management/index.html",
+    "main.073c9b0a.css.map": "/Store-Management/static/css/main.073c9b0a.css.map",
+    "main.54105ccc.js.map": "/Store-Management/static/js/main.54105ccc.js.map",
+    "787.4370736f.chunk.js.map": "/Store-Management/static/js/787.4370736f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.54105ccc.js"
+  ]
+}
